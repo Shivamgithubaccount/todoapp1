@@ -4,6 +4,7 @@ function addTodo(item) {
   console.log("Todo Added:", item);
   console.log("file added");
   console.log("delete file");
+  console.log("new branch created");
 }
 addTodo("Learn Git");
 addTodo("Create Git Hands-on Project");
